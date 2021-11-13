@@ -4,7 +4,7 @@
 
 Here at PDennSploit Softworks we are focused on bringing the best quality products to our customers and supporters. One of our kickstarting projects is <a href="https://github.com/P-DennyGamingYT/PDennSploit/">PDennSploit</a>, it is the the #1 Free Script Utility. PDennSploit it also a roblox exploit made for speed, execution, and support.
 
-![Profile views](https://gpvc.arturio.dev/PDennSploit)  <img src="https://img.shields.io/github/followers/PDennSploit?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/PDennSploit)  <img src="https://img.shields.io/github/followers/PDennSploit?label=Followers" style=" float:left, margin-right:10px" />
 
 ---
 
@@ -19,5 +19,11 @@ CEO - <a href="https://github.com/P-DennyGamingYT/">Payson Holmes</a>
 Lead Developer - <a href="https://github.com/P-DennyGamingYT/">Payson Holmes</a>
 
 Become a Staff Member today! Contact Me for consulting and interviews. <a href="mailto:paysonholmes@gmail.com?subject=PDennSploit-Softworks-LLC-Job-Request">paysonholmes@gmail.com</a>
+
+---
+
+For Updates Please either join the [Discord Server](https://discord.io/PDennSploit/) or Follow our [Twitter](https://twitter.com/PDennSploitLLC/).
+
+---
 
 Hope You have a great time checking out our companies repos!
